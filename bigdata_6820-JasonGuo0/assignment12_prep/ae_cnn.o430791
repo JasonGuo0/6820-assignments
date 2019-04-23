@@ -1,0 +1,16 @@
+/users/PAS1495/gsdbuilder/6820BigData/bigdata_6820-JasonGuo0/assignment12_prep
+
+-----------------------
+Resources requested:
+nodes=1:ppn=10
+mem=47610mb
+-----------------------
+Resources used:
+cput=01:53:21
+walltime=00:21:11
+mem=6.059GB
+vmem=10.360GB
+-----------------------
+Resource units charged (estimate):
+0.353 RUs
+-----------------------
